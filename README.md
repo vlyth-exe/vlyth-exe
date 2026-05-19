@@ -1,11 +1,5 @@
-<h2 align="center">vlyth</h2>
-<p align="center">building developer tools and AI coding infrastructure</p>
-
-<p align="center">
-  <sup>focused on the intersection of AI coding and developer experience</sup>
-</p>
-
----
+<h2 align="center">vlyth-exe</h2>
+<p align="center">Final year Cyber Security &amp; Digital Forensics student. Building things, breaking things, learning constantly.</p>
 
 ### what I'm working on
 
