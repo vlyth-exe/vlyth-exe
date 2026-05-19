@@ -28,7 +28,6 @@
 | Project | Description |
 |:---|:---|
 | [FluxFocus](https://github.com/vlyth-exe/FluxFocus) | Python project |
-| [PhishAgent-Eval](https://github.com/vlyth-exe/PhishAgent-Eval) | Phishing agent evaluation framework |
 | [few-shot-keystroke-auth](https://github.com/vlyth-exe/few-shot-keystroke-auth) | Keystroke authentication research (TeX) |
 | [digital-business-card](https://github.com/vlyth-exe/digital-business-card) | Personal digital business card (Astro) |
 | [typemd](https://github.com/vlyth-exe/typemd) | Markdown tooling |
