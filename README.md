@@ -21,9 +21,6 @@
 | [vlyth-exe/typemd](https://github.com/vlyth-exe/typemd) | markdown tooling |
 | [vlyth-exe/python-portfolio](https://github.com/vlyth-exe/python-portfolio) | assorted python experiments |
 
-> [!NOTE]
-> PhishAgent-Eval is now private — still actively developing it, just keeping it under wraps for now.
-
 ### ⚡ stack
 
 <p align="center">
