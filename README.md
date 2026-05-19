@@ -11,7 +11,13 @@
 # stack
 
 <p align="center">
-  <code>TypeScript</code> · <code>Python</code> · <code>React</code> · <code>Electron</code> · <code>Astro</code> · <code>TeX</code>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" alt="Astro"/>
+  <img src="https://img.shields.io/badge/TeX-008080?logo=latex&logoColor=white" alt="TeX"/>
 </p>
 
 # where to find me
