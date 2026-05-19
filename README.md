@@ -1,52 +1,39 @@
-<h1 align="center">Hi, I'm vlyth 👋</h1>
+<h2 align="center">vlyth</h2>
+<p align="center">developer · maintainer · climber</p>
 
 <p align="center">
-  Developer interested in AI coding tools, security research, and building dev utilities.
+  <sup>building tools at the intersection of AI coding and developer experience</sup>
 </p>
 
 ---
 
-## Featured Project
+### ⛰️ what I'm working on
 
-<div align="center">
-  <a href="https://github.com/belay-codes/belay">
-    <img src="https://img.shields.io/github/stars/belay-codes/belay?style=for-the-badge&logo=github" alt="belay stars"/>
-  </a>
-</div>
+- **[belay-codes/belay](https://github.com/belay-codes/belay)** — desktop client for AI coding harnesses via the Agent Client Protocol. Electron + React + TypeScript. [Try it →](https://github.com/belay-codes/belay)
 
-**[belay](https://github.com/belay-codes/belay)** — Desktop client for AI coding harnesses via the Agent Client Protocol. Manages connections to Claude Code, Aider, Cline and more.
+### 🔭 other projects
 
-- Electron + React + TypeScript
-- Multi-harness support with isolated sessions
-- Streaming chat with thinking blocks & tool-call display
-- Permission prompts, WSL support, 14+ themes
-
----
-
-## Other Projects
-
-| Project | Description |
+| repository | what it is |
 |:---|:---|
-| [FluxFocus](https://github.com/vlyth-exe/FluxFocus) | Python project |
-| [few-shot-keystroke-auth](https://github.com/vlyth-exe/few-shot-keystroke-auth) | Keystroke authentication research (TeX) |
-| [digital-business-card](https://github.com/vlyth-exe/digital-business-card) | Personal digital business card (Astro) |
-| [typemd](https://github.com/vlyth-exe/typemd) | Markdown tooling |
-| [python-portfolio](https://github.com/vlyth-exe/python-portfolio) | Python portfolio projects |
+| [vlyth-exe/FluxFocus](https://github.com/vlyth-exe/FluxFocus) | python utilities |
+| [vlyth-exe/few-shot-keystroke-auth](https://github.com/vlyth-exe/few-shot-keystroke-auth) | keystroke authentication research |
+| [vlyth-exe/digital-business-card](https://github.com/vlyth-exe/digital-business-card) | personal site (astro) |
+| [vlyth-exe/typemd](https://github.com/vlyth-exe/typemd) | markdown tooling |
+| [vlyth-exe/python-portfolio](https://github.com/vlyth-exe/python-portfolio) | assorted python experiments |
 
----
+> [!NOTE]
+> PhishAgent-Eval is now private — still actively developing it, just keeping it under wraps for now.
 
-## Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Astro-ff5d01?logo=astro&logoColor=white" alt="Astro"/>
-</div>
-
----
+### ⚡ stack
 
 <p align="center">
-  <sub><a href="https://github.com/belay-codes">belay-codes</a> · <a href="https://github.com/vlyth-exe">repositories</a> · <a href="https://agentclientprotocol.com">agentclientprotocol.com</a></sub>
+  <code>TypeScript</code> · <code>Python</code> · <code>React</code> · <code>Electron</code> · <code>Astro</code> · <code>TeX</code>
 </p>
+
+### 📌 where to find me
+
+<div align="center">
+  <a href="https://github.com/belay-codes">belay-codes <em>(org)</em></a> ·
+  <a href="https://github.com/vlyth-exe">vlyth-exe <em>(personal)</em></a> ·
+  <a href="https://agentclientprotocol.com">agentclientprotocol.com</a>
+</div>
