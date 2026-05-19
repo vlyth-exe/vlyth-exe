@@ -15,7 +15,10 @@
 </p>
 
 # where to find me
+
 <div align="center">
+  <a href="https://www.linkedin.com/in/adamwherrett">LinkedIn</a> ·
+  <a href="https://x.com/vlyth_exe">X (Twitter)</a> ·
   <a href="https://github.com/belay-codes">belay-codes (org)</a> ·
-  <a href="https://github.com/vlyth-exe">vlyth-exe (personal)</a> ·
+  <a href="https://github.com/vlyth-exe">vlyth-exe (personal)</a>
 </div>
