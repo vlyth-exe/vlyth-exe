@@ -6,11 +6,7 @@
 
 # what I'm working on
 
-<p align="center">
-  <a href="https://github.com/belay-codes/belay">
-    <img src="[https://socialify.git.ci/belay-codes/belay?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F275587036&name=1&owner=1&pattern=Diagonal+Stripes&pulls=1&stargazers=1&theme=Auto](https://socialify.git.ci/belay-codes/belay/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F275587036&name=1&owner=1&pattern=Diagonal+Stripes&pulls=1&stargazers=1&theme=Auto)" alt="belay" />
-  </a>
-</p>
+![belay](https://socialify.git.ci/belay-codes/belay/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F275587036&name=1&owner=1&pattern=Diagonal+Stripes&pulls=1&stargazers=1&theme=Auto)
 
 - **[belay-codes/belay](https://github.com/belay-codes/belay)** — desktop client for AI coding harnesses via the Agent Client Protocol. Electron + React + TypeScript.
 
